@@ -5,7 +5,6 @@ import com.example.stocksapp.module.CompanyOverviewResponse
 import com.example.stocksapp.module.StockResponse
 import com.example.stocksapp.module.TopGainersResponse
 import com.example.stocksapp.module.TopLosersResponse
-import com.example.stocksapp.utils.Constant
 import retrofit2.http.GET
 import retrofit2.http.Query
 
